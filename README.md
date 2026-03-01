@@ -10,3 +10,6 @@ Transformar a norma em uma ferramenta utilizável para avaliação de conformida
 - 114 controles
 - Sistema de avaliação
 - Dashboard de conformidade
+
+## Status
+Em desenvolvimento.

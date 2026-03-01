@@ -1,0 +1,22 @@
+{
+  "dominios": [
+    {
+      "numero": "5",
+      "nome": "Políticas de Segurança da Informação",
+      "objetivos": [
+        {
+          "codigo": "5.1",
+          "descricao": "Fornecer orientação e apoio à segurança da informação...",
+          "controles": [
+            {
+              "codigo": "5.1.1",
+              "titulo": "Política para segurança da informação",
+              "descricao": "Convém que uma política de segurança da informação seja definida...",
+              "diretrizes": "Convém que a política seja aprovada pela direção..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
